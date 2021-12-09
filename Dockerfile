@@ -9,5 +9,4 @@ RUN conda install --yes \
         
 RUN conda install --yes \
         r-base && conda clean --all --yes
-=======
 
